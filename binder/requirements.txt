@@ -1,7 +1,5 @@
-ipydagred3
 ipykernel
 ipympl
-ipyregulartable
 IPython
 ipywidgets
 jupyterlab
@@ -12,11 +10,9 @@ mplfinance
 nbresuse
 pandas
 plotly
-pyarrow
 requests
 scikit-learn
 scipy
 seaborn
 statsmodels
-tributary
 vapeplot
