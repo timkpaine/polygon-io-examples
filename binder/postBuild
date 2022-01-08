@@ -4,14 +4,6 @@ export PATH=/tmp/cmake/bin:$PATH
 
 export NODE_OPTIONS=--max-old-space-size=32768
 
-EXTENSIONS="
-@jupyter-widgets/jupyterlab-manager
-jupyterlab_iframe
-jupyterlab-plotly
-plotlywidget
-"
-
-jupyter labextension install $EXTENSIONS --no-build
 jupyter lab build --dev-build=False --minimize=True
 
 jupyter serverextension enable --py jupyterlab
