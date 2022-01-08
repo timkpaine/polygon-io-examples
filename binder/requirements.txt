@@ -1,7 +1,5 @@
-ipydagred3
 ipykernel
 ipympl
-ipyregulartable
 IPython
 ipywidgets
 jupyterlab
@@ -13,11 +11,9 @@ nbresuse
 pandas
 polygon-api-client
 plotly
-pyarrow
 requests
 scikit-learn
 scipy
 seaborn
 statsmodels
-tributary
 vapeplot
