@@ -7,10 +7,10 @@ export NODE_OPTIONS=--max-old-space-size=32768
 jupyter lab build --dev-build=False --minimize=True
 
 jupyter serverextension enable --py jupyterlab
-jupyter serverextension enable --py jupyterlab_iframe
-jupyter serverextension enable --py nbresuse
+# jupyter serverextension enable --py jupyterlab_iframe
+# jupyter serverextension enable --py nbresuse
 
-config="c.JupyterLabIFrame.welcome = 'local://binder/landing.html'"
+# config="c.JupyterLabIFrame.welcome = 'local://binder/landing.html'"
 
-mkdir -p ~/.jupyter
-echo -e $config > ~/.jupyter/jupyter_notebook_config.py
+# mkdir -p ~/.jupyter
+# echo -e $config > ~/.jupyter/jupyter_notebook_config.py
