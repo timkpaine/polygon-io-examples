@@ -1,5 +1,5 @@
 
-<a href="https://polygon.io/"><img src="docs/img/logo.png" width="300">
+<a href="https://polygon.io/"><img src="docs/img/logo.png" width="300"></a>
 
 # <a href="https://polygon.io/">Polygon.io Examples</a>
 
