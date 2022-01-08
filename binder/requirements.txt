@@ -11,6 +11,7 @@ matplotlib
 mplfinance
 nbresuse
 pandas
+polygon-api-client
 plotly
 pyarrow
 requests
