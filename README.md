@@ -6,7 +6,8 @@
 
 Example applications, dashboards, scripts, notebooks, and other utilities built using [Polygon.io](https://polygon.io/).
 
-[![](https://img.shields.io/badge/Launch-Cloud%20Instance-brightgreen?style=for-the-badge)](http://mybinder.org/v2/gh/timkpaine/polygon-io-examples/main?urlpath=lab)
+[![](https://img.shields.io/badge/Launch-Cloud%20Instance-blue)](http://mybinder.org/v2/gh/timkpaine/polygon-io-examples/main?urlpath=lab)
+[![License](https://img.shields.io/github/license/timkpaine/polygon-io-examples.svg)](https://github.com/timkpaine/polygon-io-examples)
 
 ## Examples
 
