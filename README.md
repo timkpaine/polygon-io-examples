@@ -14,6 +14,7 @@ Example applications, dashboards, scripts, notebooks, and other utilities built 
 | Preview | Name | Type | Language | Frameworks / Libraries | Datasets | Difficulty (1-5) |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | <a href="./notebooks/1_OHLCV.ipynb"><img width="150" src="./docs/img/ohlcv.png" alt="OHLCV"></img></a> | [OHLCV](./notebooks/1_OHLCV.ipynb) | Notebook | Python | [Pandas](https://pandas.pydata.org), [Matplotlib](https://matplotlib.org), [Plotly](https://plotly.com/python/) | [Stocks](https://polygon.io/docs/stocks/getting-started)  | 1 |
+| <a href="./notebooks/2_Profile.ipynb"><img width="150" src="./docs/img/ohlcv.png" alt="Profile"></img></a> | [Profile](./notebooks/2_Profile.ipynb) | Notebook | Python | [ipywidgets](https://ipywidgets.readthedocs.io/en/latest/index.html) | [Stocks](https://polygon.io/docs/stocks/getting-started)  | 1 |
 
 
 
