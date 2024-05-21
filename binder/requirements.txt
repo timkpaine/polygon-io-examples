@@ -7,4 +7,4 @@ mplfinance
 pandas==1.2.3
 polygon-api-client==0.2.11
 plotly==5.5.0
-requests==2.31.0
+requests==2.32.0
